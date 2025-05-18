@@ -7,7 +7,7 @@
 
 :eyeglasses: **Dibujos y música**
 
-:family: **¡Mi familia y mis perros son todo**
+:family: **¡Mi familia y mis perros son todo!**
 
 ### Vías de contacto
 
