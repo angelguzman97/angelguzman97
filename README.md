@@ -1,10 +1,12 @@
 
 ## Hi there 👋
 
-
 :computer: **Ingeniero En Sistemas Computacionales**
+
 :computer: **Desarrollador Full-Stack**
-:earphones: **Dibujos y música**
+
+:eyeglasses: **Dibujos y música**
+
 :family: **¡Mi familia y mis perros son todo**
 
 ### Vías de contacto
